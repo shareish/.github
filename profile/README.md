@@ -6,7 +6,7 @@ Shareish (Share & Cherish) is an open-source map-based web platform to foster di
 
 [Main code](https://github.com/shareish/shareish) - [How to contribute](https://github.com/shareish/shareish/blob/main/CONTRIBUTING.md)
 
-[Chat with us on Matrix](#shareish:matrix.org) - [Community information & Discussions](https://github.com/shareish/shareish/discussions)
+[Chat with us on Matrix](https://matrix.to/#/#shareish:matrix.org) - [Community information & Discussions](https://github.com/shareish/shareish/discussions)
 
 Follow us on [Mastodon](https://mapstodon.space/@shareish)
 
